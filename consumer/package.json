@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@pact-foundation/pact": "^5.9.1",
     "axios": "^0.14.0",
