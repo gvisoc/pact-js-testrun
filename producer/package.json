@@ -17,7 +17,6 @@
     "chai": "^4.1.2",
     "express": "^4.16.3",
     "mocha": "^3.5.3",
-    "mocha-parallel-tests": "^1.2.10",
-    "growl": "~1.10.5"
+    "mocha-parallel-tests": "^1.2.10"
   }
 }
